@@ -29,15 +29,17 @@ body {
 	display: grid;
 	background: #ffffff;
 	grid-template-columns: 1fr;
-	grid-template-rows: 100px 450px 400px;
+	grid-template-rows: 50px 350px 300px;
 }
 
 .img {
-	width: 124px;
+	
 }
 
 .item {
 	text-align: center;
+	
+
 
 }
 
