@@ -17,13 +17,12 @@ body {
 }
 
 .inner {
-	position: absolute;
+	
 	display: grid;
 	background: #293B4C;
 	grid-template-columns: 1fr 1fr;
 	grid-template-rows: 100px 100px 100px;
-	left: 17px;
-	top: 604px;
+	
 }
 
 .img {
