@@ -25,6 +25,13 @@ body {
 	
 }
 
+.fone{
+	display: grid;
+	background: #ffffff;
+	grid-template-columns: 1fr;
+	grid-template-rows: 100px 450px 400px;
+}
+
 .img {
 	width: 124px;
 }
@@ -47,13 +54,12 @@ body {
 	background: lightgreen;
 }
 
-.usercard {
-	text-align: center;
-}
 
 
 .backgroundimage{
-	
+
+	text-align: center;
+
 }
 
 /*
