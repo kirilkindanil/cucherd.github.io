@@ -10,7 +10,7 @@ from keyboards import keyboard
 @dp.message_handler(Command('start'))
 async def start(message: Message):
     await bot.send_message(message.chat.id,
-                           'Тестируем WebApp',
+                           'Тестируем WebApp в телеграме',
                            reply_markup=keyboard)
 
 PRICE = {
