@@ -62,6 +62,10 @@ body {
 
 }
 
+.logo{
+	text-align: center;
+}
+
 /*
 var(--tg-theme-bg-color)
 var(--tg-theme-text-color)
