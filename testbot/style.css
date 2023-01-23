@@ -6,14 +6,24 @@ body {
 	background: var(--tg-theme-bg-color);
 }
 
+.background{
+	width: 414px;
+	height: 896px;
+}
+
+
 .container {
 	max-width: 390px;
 }
 
 .inner {
+	position: absolute;
 	display: grid;
+	background: #293B4C;
 	grid-template-columns: 1fr 1fr;
 	grid-template-rows: 100px 100px 100px;
+	left: 17px;
+	top: 604px;
 }
 
 .img {
