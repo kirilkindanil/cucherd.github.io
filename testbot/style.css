@@ -13,7 +13,7 @@ body {
 
 
 .container {
-	max-width: 390px;
+	height: 890px;
 	position: fixed;
 }
 
@@ -64,6 +64,7 @@ body {
 
 	text-align: center;
 	width: 400px;
+	padding: 20px;
 
 }
 
